@@ -14,4 +14,4 @@
  - Goal of Dashboard
  - Business impact & Insights
 5.Screenshot:
-url:
+url:https://github.com/Avinash9908/Readmission-Rate-Dashboard/blob/main/snapshot.png
